@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education Consulting & Advocacy</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Empowering Education & Advocacy</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="testimonials.html">Testimonials</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Helping Students & Families Navigate Education</h2>
+        <p>Expert consulting and advocacy for a brighter future.</p>
+        <a href="contact.html" class="cta-button">Book a Consultation</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Educational Consulting & Advocacy. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
